@@ -14,20 +14,20 @@ const Contact = () =>{
                 <a href="mailto:sogaral89@gmail.com?Desde%20la%20web"> Email.</a>
             </p>
             <p>Or found me in my profiles.</p>
-            <ul class="social-list">
-                <li class="social-list__item">
-                <a class="social-list__link" href="https://www.linkedin.com/in/sogaral/">
-                    <i class="fab fa-linkedin"></i>
+            <ul className="social-list">
+                <li className="social-list__item">
+                <a className="social-list__link" href="https://www.linkedin.com/in/sogaral/">
+                    <i className="fab fa-linkedin"></i>
                 </a>
                 </li>
-                <li class="social-list__item">
-                    <a class="social-list__link" href="https://github.com/Esemega">
-                        <i class="fab fa-github"></i>
+                <li className="social-list__item">
+                    <a className="social-list__link" href="https://github.com/Esemega">
+                        <i className="fab fa-github"></i>
                     </a>
                 </li>
-                <li class="social-list__item">
-                    <a class="social-list__link" href="https://codepen.io/esemega/">
-                        <i class="fab fa-codepen"></i>
+                <li className="social-list__item">
+                    <a className="social-list__link" href="https://codepen.io/esemega/">
+                        <i className="fab fa-codepen"></i>
                     </a>
                 </li>
             </ul>
