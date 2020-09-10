@@ -6,7 +6,7 @@ This is the source code of the personal website of Sonia Garcia Alcaraz.
 - [x] Create Me component
 - [x] Create Contact component
 - [ ] Create Navbar component
-- [ ] Create Project component
+- [x] Create Project component
 - [ ] Create ProjectList component
 - [ ] Create a json with the data of each project
 - [ ] Add hover effect in Project component
