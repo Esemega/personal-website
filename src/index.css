@@ -98,3 +98,9 @@ a {
 a:hover {
   opacity: .7;
 }
+
+ul{
+  list-style: none;
+}
+
+
