@@ -1,0 +1,19 @@
+{
+    "Projects": [
+        {
+            "image": "../../img/robofriends.jpg", 
+            "name":"Robofriends" ,
+            "description":"Simple App to start with APIs.",
+            "code":"https://github.com/Esemega/robofriends",
+            "live":"https://esemega.github.io/robofriends/"
+        },
+        
+        {
+            "image": "../img/robofriends.jpg", 
+            "name":"Markdown previewer" ,
+            "description":"A previewer for Markdown.",
+            "code":"https://github.com/Esemega/markdown-previewer",
+            "live":"https://esemega.github.io/markdown-previewer/"
+        }
+    ]
+}
